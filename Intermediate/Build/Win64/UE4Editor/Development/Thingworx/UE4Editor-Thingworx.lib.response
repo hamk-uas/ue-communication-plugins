@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Thingworx.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\igort\Documents\Unreal Projects\Thingworx\HostProject\Plugins\Thingworx\Intermediate\Build\Win64\UE4Editor\Development\Thingworx\Module.Thingworx.cpp.obj"
+"C:\Users\igort\Documents\Unreal Projects\Thingworx\HostProject\Plugins\Thingworx\Intermediate\Build\Win64\UE4Editor\Development\Thingworx\Module.Thingworx.gen.cpp.obj"
+"C:\Users\igort\Documents\Unreal Projects\Thingworx\HostProject\Plugins\Thingworx\Intermediate\Build\Win64\UE4Editor\Development\Thingworx\PCLaunch.rc.res"
+/OUT:"C:\Users\igort\Documents\Unreal Projects\Thingworx\HostProject\Plugins\Thingworx\Intermediate\Build\Win64\UE4Editor\Development\Thingworx\UE4Editor-Thingworx.lib"
