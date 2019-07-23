@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Thingsboard.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\igort\Documents\ThingsboardPlugin\Thingsboard\HostProject\Plugins\Thingsboard\Intermediate\Build\Win64\UE4Editor\Development\Thingsboard\Module.Thingsboard.cpp.obj"
+"C:\Users\igort\Documents\ThingsboardPlugin\Thingsboard\HostProject\Plugins\Thingsboard\Intermediate\Build\Win64\UE4Editor\Development\Thingsboard\Module.Thingsboard.gen.cpp.obj"
+"C:\Users\igort\Documents\ThingsboardPlugin\Thingsboard\HostProject\Plugins\Thingsboard\Intermediate\Build\Win64\UE4Editor\Development\Thingsboard\PCLaunch.rc.res"
+/OUT:"C:\Users\igort\Documents\ThingsboardPlugin\Thingsboard\HostProject\Plugins\Thingsboard\Intermediate\Build\Win64\UE4Editor\Development\Thingsboard\UE4Editor-Thingsboard.lib"
